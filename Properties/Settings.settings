@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AitukCore.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=sql-eu-nl.nodecraft.com;Port=3306;Database=np2_cktE2_urwYbt7yhbjm;Uid=np2_JMoEER3ZBmqG;Pwd=NDnDSYimd6u2FYciKtGLvrnw</Value>
+    </Setting>
+    <Setting Name="DefaultLanguage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">eng</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
